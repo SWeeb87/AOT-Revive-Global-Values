@@ -1,3 +1,2 @@
 
-float ReticleSize 1
-float PlayerHeight 100
+delete ReticleSize
