@@ -1,2 +1,2 @@
 
-int test 1
+delete test
