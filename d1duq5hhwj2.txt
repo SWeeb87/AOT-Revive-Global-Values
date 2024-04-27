@@ -1,3 +1,4 @@
 Test SWeeb
-lol 1
-caca 0
+string lol 1
+int caca 0
+float pupu 0.5
