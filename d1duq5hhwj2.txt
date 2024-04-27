@@ -1,4 +1,0 @@
-Test SWeeb
-string lol caso
-int caca 2
-float pupu 0,5
