@@ -1,5 +1,0 @@
-Add titan shifts
-int ShiftFatti 1
-int ShiftsFatti 1
-float ShiftFatti 1
-float ShiftsFatti 1
