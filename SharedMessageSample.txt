@@ -1,0 +1,6 @@
+v1o ("v" to set a video) ("o" to set a message in overrride mode)
+Message here
+Video link
+
+t1 ("t" to set a text) ("1" as the message number)
+Message here (Max 180 characters)
