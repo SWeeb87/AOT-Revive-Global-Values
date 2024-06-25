@@ -1,5 +1,0 @@
-Fo 1
-Ca 1
-Wa 1
-Tr 1
-Te 1
