@@ -1,0 +1,5 @@
+User name
+string Test1 testText
+int Test2 1
+float Test3 0,5
+delete Test4
