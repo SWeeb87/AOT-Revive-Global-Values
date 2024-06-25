@@ -1,6 +1,0 @@
-v1ol ("v" to set a video) ("o" to set a message in overrride mode) (Videos must be in 640x360) ("l" to enable video looping, write nothing to not make it loop)
-Message here
-Video link
-
-t1 ("t" to set a text) ("1" as the message number)
-Message here (Max 180 characters)
