@@ -1,0 +1,30 @@
+name: Upload File
+
+on:
+  workflow_dispatch:
+    inputs:
+      filePath:
+        description: 'File path'
+        required: true
+      fileContent:
+        description: 'File content'
+        required: true
+
+jobs:
+  upload:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Create file
+        run: echo "${{ github.event.inputs.fileContent }}" | base64 -d > ${{ github.event.inputs.filePath }}
+
+      - name: Commit and push
+        run: |
+          git config --local user.email "actions@github.com"
+          git config --local user.name "github-actions"
+          git add ${{ github.event.inputs.filePath }}
+          git commit -m "Add new file"
+          git push
