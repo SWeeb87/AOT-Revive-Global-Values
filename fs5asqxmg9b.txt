@@ -1,3 +1,0 @@
-Harouki PC
-int IsBetaTester 1
-int TitansUnlockedGlobal 1
