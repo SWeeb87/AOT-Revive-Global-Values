@@ -1,2 +1,0 @@
-test
-int Gay 1
