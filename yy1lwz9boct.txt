@@ -1,2 +1,0 @@
-Inky
-string ClientID nutinsideme
