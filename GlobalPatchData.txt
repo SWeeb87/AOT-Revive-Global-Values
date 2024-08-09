@@ -1,2 +1,3 @@
 int ShootThunderSpearsByMouth 1
 float ShootThunderSpearsByMouthTimer 1
+int Test 2
