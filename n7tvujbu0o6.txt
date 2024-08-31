@@ -1,2 +1,0 @@
-Clac
-float AntiPersonnelGearActive 0
