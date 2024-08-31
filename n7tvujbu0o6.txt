@@ -1,0 +1,2 @@
+Clac
+float AntiPersonnelGearActive 1
