@@ -1,2 +1,2 @@
 Clac
-float AntiPersonnelGearActive 1
+float AntiPersonnelGearActive 0
