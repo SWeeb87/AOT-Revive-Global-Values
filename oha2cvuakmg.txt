@@ -1,2 +1,3 @@
 
-string PlayerUsername mim8kyihhdo
+string ClientID mim8kyihhdo
+string PlayerUsername Nate
