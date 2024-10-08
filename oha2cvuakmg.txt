@@ -1,3 +1,2 @@
 
-string ClientID mim8kyihhdo
-string PlayerUsername Nate
+int DebugConsoleActive 1
