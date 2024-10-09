@@ -1,2 +1,2 @@
 
-int DebugConsoleActive 1
+int DebugConsoleActive 0
