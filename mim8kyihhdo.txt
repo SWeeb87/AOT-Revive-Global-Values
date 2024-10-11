@@ -1,2 +1,0 @@
-
-int DebugConsoleActive 0
