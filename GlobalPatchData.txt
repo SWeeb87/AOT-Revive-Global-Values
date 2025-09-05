@@ -1,4 +1,3 @@
 
 float ShootThunderSpearsByMouthTimer 1
-int ShootThunderSpearsByMouth 1
-
+int ShootThunderSpearsByMouth 0
