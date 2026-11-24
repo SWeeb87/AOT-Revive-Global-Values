@@ -1,0 +1,3 @@
+Mari Game Tester fix
+int IsGameTester 1
+int RightColor 5
